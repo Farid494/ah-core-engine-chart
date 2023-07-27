@@ -3,12 +3,12 @@ entries:
   ah-core-engine:
   - apiVersion: v2
     appVersion: latest
-    created: "2023-07-27T11:22:27.115635+05:00"
+    created: "2023-07-27T15:42:00.328307+05:00"
     description: A Helm chart for Kubernetes
     digest: 80e2fa5954d2528832cc76d7c2fb70bb7c8dd3f6cfe7c589adf8a89fb832363a
     name: ah-core-engine
     type: application
     urls:
-    - https://ah-core-engine-chart/ah-core-engine-0.1.0.tgz
+    - https://farid494.github.io/ah-core-engine-chart/ah-core-engine-0.1.0.tgz
     version: 0.1.0
-generated: "2023-07-27T11:22:27.112506+05:00"
+generated: "2023-07-27T15:42:00.320199+05:00"
